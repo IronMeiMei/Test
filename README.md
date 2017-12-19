@@ -1,2 +1,1 @@
-# Test
-Testing
+Testing plague gun tutorial.
